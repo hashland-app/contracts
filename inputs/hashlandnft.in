@@ -1,0 +1,33 @@
+// The `new` function does not take any inputs.
+[mint]
+owner: address = aleo188ax38znh3vc87hn7z49k9ng4r4edfly6etw7p59fg8csje64yzqcfhsdh;
+attribute: u128 = 0u128;
+
+[setattributes]
+myrt: HashlandNft = HashlandNft {
+    owner: aleo188ax38znh3vc87hn7z49k9ng4r4edfly6etw7p59fg8csje64yzqcfhsdh,
+    gates: 0u64,
+    attribute: 0u128,
+    _nonce: 0group,
+};
+attribute: u128 = 309485083608338955753226241u128;
+
+[shownft]
+myrt: HashlandNft = HashlandNft {
+    owner: aleo188ax38znh3vc87hn7z49k9ng4r4edfly6etw7p59fg8csje64yzqcfhsdh,
+    gates: 0u64,
+    attribute: 309485083608338955753226241u128u128,
+    _nonce: 0group,
+};
+public attribute: u128 = 309485083608338955753226241u128;
+
+[transfer]
+myrt: HashlandNft = HashlandNft {
+    owner: aleo188ax38znh3vc87hn7z49k9ng4r4edfly6etw7p59fg8csje64yzqcfhsdh,
+    gates: 0u64,
+    attribute: 309485083608338955753226241u128u128,
+    _nonce: 0group,
+};
+reciver: address=aleo100w20zv6kn73z0a3jelywjjc96axqmja4t9gtyxctmxjwqezjs8skllw8n
+
+

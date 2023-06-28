@@ -1,0 +1,10 @@
+{
+    "program": "hashlandnft.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "",
+        "address": "aleo188ax38znh3vc87hn7z49k9ng4r4edfly6etw7p59fg8csje64yzqcfhsdh"
+    },
+    "license": "MIT"
+}
