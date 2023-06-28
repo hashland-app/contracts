@@ -12,3 +12,7 @@ In this project, we have implemented the basic functions of hashlandnft. By intr
 We use u128 to represent the five classes of attribute values, which means that each attribute has 2^24 possibilities.because attributes are hidden, we can enable the player to use skills that the opponent would not expect in a match.It's really cool！
 
 See hashlandnft.in for detailed function invocation methods
+
+## Information
+
+![](https://github.com/hashland-app/contracts/blob/main/docs/1.%20Cover.jpeg)
