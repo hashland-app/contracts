@@ -7,7 +7,7 @@
 
 HashLand is a boundless 3D fantasy metaverse, combining immersive gaming and blockchain technology, characterized by decentralization, player control, and economic innovation. This living world, teeming with Non-Fungible Tokens (NFTs), encompasses diverse heroes, dynamic lands, and unique items. Heroes, with their diverse abilities, shape the world's dynamics, while land serves as the foundation for players to shape their unique spaces. The deflationary HLD tokens drive a transparent, balanced, and sustainable economy. With a robust NFT marketplace for trade and a commitment to long-term sustainability free from short-term sell-off risks, Hashland offers an engaging and immersive gaming experience, where every player action contributes to the evolution of this dynamic metaverse.
 
-## Why it Unique
+## Why it unique
 
 **Blockchain Integration:** HashLand leverages blockchain for a decentralized gaming environment, a departure from traditional, centrally controlled games.
 
