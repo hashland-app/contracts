@@ -37,6 +37,8 @@ Overall, the integration of HashLand into the Aleo ecosystem would contribute to
 
 ## How to use
 
+[Aleo deployed transaction](https://explorer.hamp.app/transaction?id=at1sacuy8zpkm4fwsd6ga6da3cx03m22cfsavwg867jkvn0vh0a7ypszlq9la)
+
 In this project, we have implemented the basic functions of hashlandnft. By introducing the attribute hiding feature, we can give more expressive ability to the game characters.
 
 ### User Flow
